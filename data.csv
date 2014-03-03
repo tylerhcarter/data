@@ -29,6 +29,7 @@
 "2sin^2(x) = 1 - cos(2x)", "Double Sine Formula", "http://math.com/tables/trig/identities.htm"
 "2cos^2(x) = 1 + cos(2x)", "Double Cosine Formula", "http://math.com/tables/trig/identities.htm"
 "a(b + c) = ab + ac", "Distributive Law", "http://math.com/tables/algebra/basicidens.htm"
+"√( [x2 - x1]^2 + [y2 - y1]^2 )", "Distance Formula", "http://math.about.com/library/bldistance.htm"
 "a^n = a * a * a...(n times)", "Definition of Exponentation", "http://en.wikipedia.org/wiki/Exponentiation"
 "a*n = a + a + a...(n times)", "Definition of Multiplication", "http://en.wikipedia.org/wiki/Multiplication"
 "e^(i*pi)+1=0", "Euler's Identity", "http://en.wikipedia.org/wiki/Euler's_identity"
