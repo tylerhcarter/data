@@ -1,6 +1,6 @@
 "Formula", "Title", "Reference Link"
 "a + 0 = a", "Additive Identity Element", "http://en.wikipedia.org/wiki/Identity_element"
-"a + (-a) = 0", "Additive Inverse", "http://en.wikipedia.org/wiki/Additive_inverse"
+"a + (-a) = 0", "Additive Inverse Element", "http://en.wikipedia.org/wiki/Additive_inverse"
 "(a + b) + c = a + (b + c)", "Associative Property of Addition", "http://math.com/tables/algebra/basicidens.htm"
 "(a * b) * c = a * (b * c)", "Associative Property of Multiplication", "http://math.com/tables/algebra/basicidens.htm"
 "A = a^2", "Area of a square", "http://math.com/tables/geometry/areas.htm"
