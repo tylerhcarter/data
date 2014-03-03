@@ -1,92 +1,92 @@
-"Formula", "Title", "Reference Link"
-"a + 0 = a", "Additive Identity Element", "http://en.wikipedia.org/wiki/Identity_element"
-"a + (-a) = 0", "Additive Inverse Element", "http://en.wikipedia.org/wiki/Additive_inverse"
-"(a + b) + c = a + (b + c)", "Associative Property of Addition", "http://en.wikipedia.org/wiki/Associativity"
-"(a * b) * c = a * (b * c)", "Associative Property of Multiplication", "http://en.wikipedia.org/wiki/Associativity"
-"A = a^2", "Area of a square", "http://math.com/tables/geometry/areas.htm"
-"A = b * h", "Area of any parallelogram (rectangle, square, etc)", "http://math.com/tables/geometry/areas.htm"
-"A = h/2 * (b1 + b2)", "Area of a trapezoid", "http://math.com/tables/geometry/areas.htm"
-"A = π * r^2", "Area of a circle", "http://math.com/tables/geometry/areas.htm"
-"(θ/360) * pi * r^2", "Area of a Circle Sector (θ in degrees)", "http://math.com/tables/geometry/circles.htm"
-"(θ/2 * pi) * pi * r^2", "Area of a Circle Sector (θ in radians)", "http://math.com/tables/geometry/circles.htm"
-"A = π * r1 * r2", "Area of an ellipse", "http://math.com/tables/geometry/areas.htm"
-"A = 1/2 * b * h", "Area of a triangle", "http://math.com/tables/geometry/areas.htm"
-"A = √(3)/4 * a^2", "Area of an equilateral triangle", "http://math.com/tables/geometry/areas.htm"
-"pi = 3.14159265359", "Archimedes' Constant (π)", "http://en.wikipedia.org/wiki/Pi"
-"ax^2 + bx +c = 0", "Basic quadratic equation", ""
-"(x+y)^2 = x^2 + 2xy + y^2", "Binomial formula (addition)", ""
-"(x-y)^2 = x^2 - 2xy + y^2", "Binomial formula (subtraction)", ""
-"G = 0.915965594177219015", "Catalan's Constant", "http://www.cs.cmu.edu/~adamchik/articles/catalan/catalan.htm"
-"C = pi * 2r", "Circumference of a Circle", "http://math.com/tables/geometry/circles.htm"
-"a + b = b + a", "Communitive Property of Addition", "http://en.wikipedia.org/wiki/Commutative"
-"a * b = b * a", "Communitive Property of Multiplication", "http://en.wikipedia.org/wiki/Commutative"
-"λ = 1.30357", "Conway's Constant (λ)", "http://en.wikipedia.org/wiki/Look-and-say_sequence"
-"csc(-θ) = -csc(θ)", "Cosecant even-odd identity", "http://math.com/tables/trig/identities.htm"
-"cos(-θ) = cos(θ)", "Cosine even-odd identity", "http://math.com/tables/trig/identities.htm"
-"cot(-θ) = -cot(θ)", "Cotangent even-odd identity", "http://math.com/tables/trig/identities.htm"
-"a / b = a( 1 / b )", "Definition of Division", "http://math.com/tables/algebra/basicidens.htm"
-"a - b = a + (-b)", "Definition of Subtraction", "http://math.com/tables/algebra/basicidens.htm"
-"sin(2x) = 2 sin x cos x", "Double-angle Sine Formula", "http://math.com/tables/trig/identities.htm"
-"cos(2x) = cos^2(x) - sin^2(x)", "Double-angle Cosine Formula", "http://math.com/tables/trig/identities.htm"
-"tan(2x) = 2 tan(x) / (1 - tan^2(x))", "Double-angle Tangent Formula", "http://math.com/tables/trig/identities.htm"
-"2sin^2(x) = 1 - cos(2x)", "Double Sine Formula", "http://math.com/tables/trig/identities.htm"
-"2cos^2(x) = 1 + cos(2x)", "Double Cosine Formula", "http://math.com/tables/trig/identities.htm"
-"a(b + c) = ab + ac", "Distributive Law", "http://math.com/tables/algebra/basicidens.htm"
-"√( [x2 - x1]^2 + [y2 - y1]^2 )", "Distance Formula", "http://math.about.com/library/bldistance.htm"
-"a^n = a * a * a...(n times)", "Definition of Exponentation", "http://en.wikipedia.org/wiki/Exponentiation"
-"a*n = a + a + a...(n times)", "Definition of Multiplication", "http://en.wikipedia.org/wiki/Multiplication"
-"e^(i*pi)+1=0", "Euler's Identity", "http://en.wikipedia.org/wiki/Euler's_identity"
-"e = 2.7182818284", "Euler's Number (e)", "http://en.wikipedia.org/wiki/E_(mathematical_constant)"
-"γ = 0.57721", "Euler–Mascheroni Constant (γ)", "http://en.wikipedia.org/wiki/Euler%E2%80%93Mascheroni_constant"
-"(x-j)^2 + (y-k)^2 = r^2", "Equation of a Circle (Cartesian Coordinates)", "http://math.com/tables/geometry/circles.htm"
-"r2 - 2cr cos(0 - α) + c2 = a2", "Equation of a Circle (Polar Coordinates)", "http://math.com/tables/geometry/circles.htm"
-"x(t) = r cos(t) + j", "Equation of a Circle (Parametric Coordinates, X Value)", "http://math.com/tables/geometry/circles.htm"
-"y(t) = r sin(t) + k", "Equation of a Circle (Parametric Coordinates, Y Value)", "http://math.com/tables/geometry/circles.htm"
-"x^2 - y^2 = (x - y)(x + y)", "Factoring formula (2nd-power)", ""
-"x^3 - y^3 = (x - y)(x^2 + 2xy + y^2)", "Factoring formula (3rd-power)", ""
-"δ = 4.669201609102990671", "Feigenbaum constants", "http://en.wikipedia.org/wiki/Feigenbaum_constants"
-"φ = 1.61803398874", "Golden Ratio (φ)", "http://en.wikipedia.org/wiki/Golden_ratio"
-"sin(0) = a / h", "Identity Formula for Sine", "http://math.com/tables/trig/identities.htm"
-"cos(0) = b / h", "Identity Formula for Cosine", "http://math.com/tables/trig/identities.htm"
-"tan(0) = sin(0) / cos(0) = a / b", "Identity Formula for Tangent", "http://math.com/tables/trig/identities.htm"
-"csc(0) = 1 / sin(0) = h / a", "Identity Formula for Cosecant", "http://math.com/tables/trig/identities.htm"
-"sec(0) = 1 / cos(0) = h / b", "Identity Formula for Secant", "http://math.com/tables/trig/identities.htm"
-"cot(0) = cos(0) / sin(0) = b / a", "Identity Formula for Cotangent", "http://math.com/tables/trig/identities.htm"
-"i = √(-1)", "Imaginary Unit (i)", "http://en.wikipedia.org/wiki/Imaginary_unit"
-"K = 2.6854520010", "Khinchin's Constant (K)", "http://en.wikipedia.org/wiki/Khinchin%27s_constant"
-"a/sin(A) = b/sin(B) = c/sin(C)", "Law of Sines", "http://math.com/tables/trig/identities.htm"
-"c^2 = a^2 + b^2 - 2ab cos(C)", "Law of Cosines", "http://math.com/tables/trig/identities.htm"
-"(a - b)/(a + b) = tan [(A-B)/2] / tan [(A+B)/2] ", "Law of Tangents", "http://math.com/tables/trig/identities.htm"
-"θ * (pi/180) * r", "Length of a Circular Arc (θ in degrees)", "http://math.com/tables/geometry/circles.htm"
-"θ * r", "Length of a Circular Arc (θ in radians)", "http://math.com/tables/geometry/circles.htm"
-"y = mx + b", "Linear Equation", ""
-"e = mc^2", "Mass-energy equivilance", "http://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence"
-"a * 1 = a", "Multiplicative Identity Element", "http://en.wikipedia.org/wiki/Identity_element"
-"a * (1/a) = 1", "Multiplicative Inverse Element", "http://en.wikipedia.org/wiki/Inverse_element"
-"a * 0 = 0", "Multiplicative Absorption Element", "http://en.wikipedia.org/wiki/Absorbing_element"
-"a * -1 = -a", "Negation Property of Multiplication", "http://en.wikipedia.org/wiki/Multiplication"
-"x = 1/2(n)(n-3)", "Number of diagonals in a polygon", "http://math.com/tables/geometry/polygons.htm"
-"y = ax^2 + bx + c", "Equation for a Parabola (Standard Form)", "http://www.mathwarehouse.com/geometry/parabola/standard-and-vertex-form.php"
-"y = a(x - h)^2 + k", "Equation for a Parabola (Vertx Form)", "http://www.mathwarehouse.com/geometry/parabola/standard-and-vertex-form.php"
-"P = a + b + c +...", "Perimeter of any polygon", "http://www.mathgoodies.com/lessons/vol1/perimeter.html"
-"P = 4s", "Perimeter of a Square", "http://math.com/tables/geometry/perimeter.htm"
-"P = 2w + 2l", "Perimeter of a Rectangle", "http://math.com/tables/geometry/perimeter.htm"
-"P = a + b + c", "Perimeter of a Traingle", "http://math.com/tables/geometry/perimeter.htm"
-"P = pi * 2 * r", "Perimeter of a Circle (aka Circumference)", "http://math.com/tables/geometry/perimeter.htm"
-"√(2) = 1.4142135623", "Pythagoras's constant (√2)", "http://en.wikipedia.org/wiki/Pythagoras%27_constant"
-"x = (-b +/- √(4ac)) / 2a", "Quadratic Equation", ""
-"cos^2(θ) + sin^2(θ) = 1", "Pythagorean Identity", "http://en.wikipedia.org/wiki/Pythagorean_identity"
-"R∞ = 1.097373156 x 10^7m^-1", "Rydberg constant", "http://en.wikipedia.org/wiki/Rydberg_constant"
-"S = 6a^2", "Surface Area of a Cube", "http://math.com/tables/geometry/surfareas.htm"
-"S = 2 * pi * r^2 + 2 * pi * r * h", "Surface Area of Cylinder", "http://math.com/tables/geometry/surfareas.htm"
-"S = 2lw + 2lh + 2wh", "Surface Area of a Rectangular Prism", "http://math.com/tables/geometry/surfareas.htm"
-"S = 4 * pi * r^2", "Surface Area of a Sphere", "http://math.com/tables/geometry/surfareas.htm"
-"sec(-θ) = sec(θ)", "Secant even-odd identity", ""
-"sin(-θ) = -sin(θ)", "Sine even-odd identity", ""
-"tan(-θ) = -tan(θ)", "Tangent even-odd identity", ""
-"V = s^3", "Volume of a Cube", "http://www.math.com/tables/geometry/volumes.htm"
-"V = l * w * h", "Volume of a Rectangular Prism", "http://www.math.com/tables/geometry/volumes.htm"
-"V = (1/3) * b * h", "Volume of a Pyramid", "http://www.math.com/tables/geometry/volumes.htm"
-"V = (1/3) * π * r^2 * h", "Volume of a Cone", "http://www.math.com/tables/geometry/volumes.htm"
-"V = (4/3) * π * r^3", "Volume of a Sphere", "http://www.math.com/tables/geometry/volumes.htm"
-"V = b * h", "Volume of an Irregular Prism", "http://www.math.com/tables/geometry/volumes.htm"
+Formula,Title,Reference Link
+a + 0 = a,Additive Identity Element,http://en.wikipedia.org/wiki/Identity_element
+a + (-a) = 0,Additive Inverse Element,http://en.wikipedia.org/wiki/Additive_inverse
+pi = 3.14159265359,Archimedes' Constant (π),http://en.wikipedia.org/wiki/Pi
+A = π * r^2,Area of a circle,http://math.com/tables/geometry/areas.htm
+(θ/360) * pi * r^2,Area of a Circle Sector (θ in degrees),http://math.com/tables/geometry/circles.htm
+(θ/2 * pi) * pi * r^2,Area of a Circle Sector (θ in radians),http://math.com/tables/geometry/circles.htm
+A = a^2,Area of a square,http://math.com/tables/geometry/areas.htm
+A = h/2 * (b1 + b2),Area of a trapezoid,http://math.com/tables/geometry/areas.htm
+A = 1/2 * b * h,Area of a triangle,http://math.com/tables/geometry/areas.htm
+A = π * r1 * r2,Area of an ellipse,http://math.com/tables/geometry/areas.htm
+A = √(3)/4 * a^2,Area of an equilateral triangle,http://math.com/tables/geometry/areas.htm
+A = b * h,"Area of any parallelogram (rectangle, square, etc)",http://math.com/tables/geometry/areas.htm
+(a + b) + c = a + (b + c),Associative Property of Addition,http://en.wikipedia.org/wiki/Associativity
+(a * b) * c = a * (b * c),Associative Property of Multiplication,http://en.wikipedia.org/wiki/Associativity
+ax^2 + bx +c = 0,Basic quadratic equation,
+(x+y)^2 = x^2 + 2xy + y^2,Binomial formula (addition),
+(x-y)^2 = x^2 - 2xy + y^2,Binomial formula (subtraction),
+G = 0.915965594177219015,Catalan's Constant,http://www.cs.cmu.edu/~adamchik/articles/catalan/catalan.htm
+C = pi * 2r,Circumference of a Circle,http://math.com/tables/geometry/circles.htm
+a + b = b + a,Communitive Property of Addition,http://en.wikipedia.org/wiki/Commutative
+a * b = b * a,Communitive Property of Multiplication,http://en.wikipedia.org/wiki/Commutative
+λ = 1.30357,Conway's Constant (λ),http://en.wikipedia.org/wiki/Look-and-say_sequence
+csc(-θ) = -csc(θ),Cosecant even-odd identity,http://math.com/tables/trig/identities.htm
+cos(-θ) = cos(θ),Cosine even-odd identity,http://math.com/tables/trig/identities.htm
+cot(-θ) = -cot(θ),Cotangent even-odd identity,http://math.com/tables/trig/identities.htm
+a / b = a( 1 / b ),Definition of Division,http://math.com/tables/algebra/basicidens.htm
+a^n = a * a * a...(n times),Definition of Exponentation,http://en.wikipedia.org/wiki/Exponentiation
+a*n = a + a + a...(n times),Definition of Multiplication,http://en.wikipedia.org/wiki/Multiplication
+a - b = a + (-b),Definition of Subtraction,http://math.com/tables/algebra/basicidens.htm
+√( [x2 - x1]^2 + [y2 - y1]^2 ),Distance Formula,http://math.about.com/library/bldistance.htm
+a(b + c) = ab + ac,Distributive Law,http://math.com/tables/algebra/basicidens.htm
+2cos^2(x) = 1 + cos(2x),Double Cosine Formula,http://math.com/tables/trig/identities.htm
+2sin^2(x) = 1 - cos(2x),Double Sine Formula,http://math.com/tables/trig/identities.htm
+cos(2x) = cos^2(x) - sin^2(x),Double-angle Cosine Formula,http://math.com/tables/trig/identities.htm
+sin(2x) = 2 sin x cos x,Double-angle Sine Formula,http://math.com/tables/trig/identities.htm
+tan(2x) = 2 tan(x) / (1 - tan^2(x)),Double-angle Tangent Formula,http://math.com/tables/trig/identities.htm
+y = ax^2 + bx + c,Equation for a Parabola (Standard Form),http://www.mathwarehouse.com/geometry/parabola/standard-and-vertex-form.php
+y = a(x - h)^2 + k,Equation for a Parabola (Vertx Form),http://www.mathwarehouse.com/geometry/parabola/standard-and-vertex-form.php
+(x-j)^2 + (y-k)^2 = r^2,Equation of a Circle (Cartesian Coordinates),http://math.com/tables/geometry/circles.htm
+x(t) = r cos(t) + j,"Equation of a Circle (Parametric Coordinates, X Value)",http://math.com/tables/geometry/circles.htm
+y(t) = r sin(t) + k,"Equation of a Circle (Parametric Coordinates, Y Value)",http://math.com/tables/geometry/circles.htm
+r2 - 2cr cos(0 - α) + c2 = a2,Equation of a Circle (Polar Coordinates),http://math.com/tables/geometry/circles.htm
+γ = 0.57721,Euler–Mascheroni Constant (γ),http://en.wikipedia.org/wiki/Euler%E2%80%93Mascheroni_constant
+e^(i*pi)+1=0,Euler's Identity,http://en.wikipedia.org/wiki/Euler's_identity
+e = 2.7182818284,Euler's Number (e),http://en.wikipedia.org/wiki/E_(mathematical_constant)
+x^2 - y^2 = (x - y)(x + y),Factoring formula (2nd-power),
+x^3 - y^3 = (x - y)(x^2 + 2xy + y^2),Factoring formula (3rd-power),
+δ = 4.669201609102990671,Feigenbaum constants,http://en.wikipedia.org/wiki/Feigenbaum_constants
+φ = 1.61803398874,Golden Ratio (φ),http://en.wikipedia.org/wiki/Golden_ratio
+csc(0) = 1 / sin(0) = h / a,Identity Formula for Cosecant,http://math.com/tables/trig/identities.htm
+cos(0) = b / h,Identity Formula for Cosine,http://math.com/tables/trig/identities.htm
+cot(0) = cos(0) / sin(0) = b / a,Identity Formula for Cotangent,http://math.com/tables/trig/identities.htm
+sec(0) = 1 / cos(0) = h / b,Identity Formula for Secant,http://math.com/tables/trig/identities.htm
+sin(0) = a / h,Identity Formula for Sine,http://math.com/tables/trig/identities.htm
+tan(0) = sin(0) / cos(0) = a / b,Identity Formula for Tangent,http://math.com/tables/trig/identities.htm
+i = √(-1),Imaginary Unit (i),http://en.wikipedia.org/wiki/Imaginary_unit
+K = 2.6854520010,Khinchin's Constant (K),http://en.wikipedia.org/wiki/Khinchin%27s_constant
+c^2 = a^2 + b^2 - 2ab cos(C),Law of Cosines,http://math.com/tables/trig/identities.htm
+a/sin(A) = b/sin(B) = c/sin(C),Law of Sines,http://math.com/tables/trig/identities.htm
+(a - b)/(a + b) = tan [(A-B)/2] / tan [(A+B)/2] ,Law of Tangents,http://math.com/tables/trig/identities.htm
+θ * (pi/180) * r,Length of a Circular Arc (θ in degrees),http://math.com/tables/geometry/circles.htm
+θ * r,Length of a Circular Arc (θ in radians),http://math.com/tables/geometry/circles.htm
+y = mx + b,Linear Equation,
+e = mc^2,Mass-energy equivilance,http://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
+a * 0 = 0,Multiplicative Absorption Element,http://en.wikipedia.org/wiki/Absorbing_element
+a * 1 = a,Multiplicative Identity Element,http://en.wikipedia.org/wiki/Identity_element
+a * (1/a) = 1,Multiplicative Inverse Element,http://en.wikipedia.org/wiki/Inverse_element
+a * -1 = -a,Negation Property of Multiplication,http://en.wikipedia.org/wiki/Multiplication
+x = 1/2(n)(n-3),Number of diagonals in a polygon,http://math.com/tables/geometry/polygons.htm
+P = pi * 2 * r,Perimeter of a Circle (aka Circumference),http://math.com/tables/geometry/perimeter.htm
+P = 2w + 2l,Perimeter of a Rectangle,http://math.com/tables/geometry/perimeter.htm
+P = 4s,Perimeter of a Square,http://math.com/tables/geometry/perimeter.htm
+P = a + b + c,Perimeter of a Traingle,http://math.com/tables/geometry/perimeter.htm
+P = a + b + c +...,Perimeter of any polygon,http://www.mathgoodies.com/lessons/vol1/perimeter.html
+√(2) = 1.4142135623,Pythagoras's constant (√2),http://en.wikipedia.org/wiki/Pythagoras%27_constant
+cos^2(θ) + sin^2(θ) = 1,Pythagorean Identity,http://en.wikipedia.org/wiki/Pythagorean_identity
+x = (-b +/- √(4ac)) / 2a,Quadratic Equation,
+R∞ = 1.097373156 x 10^7m^-1,Rydberg constant,http://en.wikipedia.org/wiki/Rydberg_constant
+sec(-θ) = sec(θ),Secant even-odd identity,
+sin(-θ) = -sin(θ),Sine even-odd identity,
+S = 6a^2,Surface Area of a Cube,http://math.com/tables/geometry/surfareas.htm
+S = 2lw + 2lh + 2wh,Surface Area of a Rectangular Prism,http://math.com/tables/geometry/surfareas.htm
+S = 4 * pi * r^2,Surface Area of a Sphere,http://math.com/tables/geometry/surfareas.htm
+S = 2 * pi * r^2 + 2 * pi * r * h,Surface Area of Cylinder,http://math.com/tables/geometry/surfareas.htm
+tan(-θ) = -tan(θ),Tangent even-odd identity,
+V = (1/3) * π * r^2 * h,Volume of a Cone,http://www.math.com/tables/geometry/volumes.htm
+V = s^3,Volume of a Cube,http://www.math.com/tables/geometry/volumes.htm
+V = (1/3) * b * h,Volume of a Pyramid,http://www.math.com/tables/geometry/volumes.htm
+V = l * w * h,Volume of a Rectangular Prism,http://www.math.com/tables/geometry/volumes.htm
+V = (4/3) * π * r^3,Volume of a Sphere,http://www.math.com/tables/geometry/volumes.htm
+V = b * h,Volume of an Irregular Prism,http://www.math.com/tables/geometry/volumes.htm
