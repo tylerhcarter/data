@@ -4,7 +4,7 @@
 "A = h/2 * (b1 + b2)", "Area of a trapezoid", "http://math.com/tables/geometry/areas.htm"
 "A = π * r^2", "Area of a circle", "http://math.com/tables/geometry/areas.htm"
 "A = π * r1 * r2", "Area of an ellipse", "http://math.com/tables/geometry/areas.htm"
-"A = 1/2 * b * h", "Area of a triangle", "http://math.com/tables/geometry/areas.htm",
+"A = 1/2 * b * h", "Area of a triangle", "http://math.com/tables/geometry/areas.htm"
 "A = √(3)/4 * a^2", "Area of an equilateral triangle", "http://math.com/tables/geometry/areas.htm"
 "pi = 3.14159265359", "Archimedes' Constant (π)", "http://en.wikipedia.org/wiki/Pi"
 "ax^2 + bx +c = 0", "Basic quadratic equation", ""
