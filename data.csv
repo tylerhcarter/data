@@ -36,7 +36,7 @@
 "x = 1/2(n)(n-3)", "Number of diagonals in a polygon", "http://math.com/tables/geometry/polygons.htm"
 "P = a + b + c +...", "Perimeter of any polygon", "http://www.mathgoodies.com/lessons/vol1/perimeter.html"
 "P = 4s", "Perimeter of a Square", "http://math.com/tables/geometry/perimeter.htm"
-"P = 2w + 2l", "Perimeter of a Rectangle", "http://math.com/tables/geometry/perimeter.htm",
+"P = 2w + 2l", "Perimeter of a Rectangle", "http://math.com/tables/geometry/perimeter.htm"
 "P = a + b + c", "Perimeter of a Traingle", "http://math.com/tables/geometry/perimeter.htm"
 "P = pi * 2 * r", "Perimeter of a Circle (aka Circumference)", "http://math.com/tables/geometry/perimeter.htm"
 "√(2) = 1.4142135623", "Pythagoras's constant (√2)", "http://en.wikipedia.org/wiki/Pythagoras%27_constant"
