@@ -43,7 +43,7 @@
 "φ = 1.61803398874", "The Golden Ratio (φ)", "http://en.wikipedia.org/wiki/Golden_ratio"
 "sin(0) = a / h", "Identity Formula for Sine", "http://math.com/tables/trig/identities.htm"
 "cos(0) = b / h", "Identity Formula for Cosine", "http://math.com/tables/trig/identities.htm"
-"tan(0) = sin(0) / cos(0) = a / b (", "Identity Formula for Tangent", "http://math.com/tables/trig/identities.htm"
+"tan(0) = sin(0) / cos(0) = a / b", "Identity Formula for Tangent", "http://math.com/tables/trig/identities.htm"
 "csc(0) = 1 / sin(0) = h / a", "Identity Formula for Cosecant", "http://math.com/tables/trig/identities.htm"
 "sec(0) = 1 / cos(0) = h / b", "Identity Formula for Secant", "http://math.com/tables/trig/identities.htm"
 "cot(0) = cos(0) / sin(0) = b / a", "Identity Formula for Cotangent", "http://math.com/tables/trig/identities.htm"
