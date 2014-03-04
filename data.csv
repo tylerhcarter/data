@@ -81,6 +81,7 @@
 "a * 0 = 0","Multiplicative Absorption Element","Basic","http://en.wikipedia.org/wiki/Absorbing_element"
 "a * 1 = a","Multiplicative Identity Element","Basic","http://en.wikipedia.org/wiki/Identity_element"
 "a * (1/a) = 1","Multiplicative Inverse Element","Basic","http://en.wikipedia.org/wiki/Inverse_element"
+"a^(-n) = 1/(a^n)","Multiplicative Inverse Property of Exponents","Algebra","http://hotmath.com/hotmath_help/topics/properties-of-exponents.html"
 "a * -1 = -a","Negation Property of Multiplication","Basic","http://en.wikipedia.org/wiki/Multiplication"
 "x = 1/2(n)(n-3)","Number of diagonals in a polygon","Geometry","http://math.com/tables/geometry/polygons.htm"
 "P = pi * 2 * r","Perimeter of a Circle (aka Circumference)","Geometry","http://math.com/tables/geometry/perimeter.htm"
@@ -88,9 +89,12 @@
 "P = 4s","Perimeter of a Square","Geometry","http://math.com/tables/geometry/perimeter.htm"
 "P = a + b + c","Perimeter of a Traingle","Geometry","http://math.com/tables/geometry/perimeter.htm"
 "P = a + b + c +...","Perimeter of any polygon","Geometry","http://www.mathgoodies.com/lessons/vol1/perimeter.html"
+"(a^c) * (b^c) = (ab)^c","Power of a Product Property","Algebra","http://hotmath.com/hotmath_help/topics/properties-of-exponents.html"
+"a^(n)*a^(m) = a^(n+m)","Product of Exponents Property","Algebra","http://hotmath.com/hotmath_help/topics/properties-of-exponents.html"
 "√(2) = 1.4142135623","Pythagoras's constant (√2)",,"http://en.wikipedia.org/wiki/Pythagoras%27_constant"
 "cos^2(θ) + sin^2(θ) = 1","Pythagorean Identity","Geometry","http://en.wikipedia.org/wiki/Pythagorean_identity"
 "x = (-b +/- √(4ac)) / 2a","Quadratic Equation","Algebra",
+"(a ^ x)/(a ^ y) = a^(x – y)","Quotient of Powers Property","Algebra","http://hotmath.com/hotmath_help/topics/properties-of-exponents.html"
 "R∞ = 1.097373156 x 10^7m^-1","Rydberg constant",,"http://en.wikipedia.org/wiki/Rydberg_constant"
 "sec(-θ) = sec(θ)","Secant even-odd identity","Trigonometry",
 "sin(-θ) = -sin(θ)","Sine even-odd identity","Trigonometry",
@@ -105,3 +109,4 @@
 "V = l * w * h","Volume of a Rectangular Prism","Geometry","http://www.math.com/tables/geometry/volumes.htm"
 "V = (4/3) * π * r^3","Volume of a Sphere","Geometry","http://www.math.com/tables/geometry/volumes.htm"
 "V = b * h","Volume of an Irregular Prism","Geometry","http://www.math.com/tables/geometry/volumes.htm"
+"A^0 = 1","Zero Property of Exponents","Algebra","http://hotmath.com/hotmath_help/topics/properties-of-exponents.html"
