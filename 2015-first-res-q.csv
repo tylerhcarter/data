@@ -1,0 +1,24 @@
+Description,,Points per action,Max. actions,Total possible,Difficulty,Difficulty rating,Notes
+End Auto Location: High Zone,Autonomous,40,1,40,5,8.00,
+Set Rescue Beacon,Autonomous,20,2,40,5,4.00,Only one trigger per robot
+End Auto Location: Mid Zone,Autonomous,20,1,20,3,6.67,
+Climbers in Alliance Shelter,Autonomous,10,,0,5,2.00,
+End Auto Location: Low Zone,Autonomous,10,1,10,2,5.00,
+End Auto Location: Playing Field/Mountain,Autonomous,5,1,5,1,5.00,
+End Auto Location: Rescue Beacon Repair Zone,Autonomous,5,1,5,1,5.00,
+End Auto Location: Floor Goal,Autonomous,5,1,5,1,5.00,
+End Tele Location: Cliff pull-up bar,Teleoperated,80,2,160,6,13.33,Must be above 2-inch zone. One robot per mountain.
+End Tele Location: High Zone,Teleoperated,40,1,40,5,8.00,
+Set Rescue Beacon,Teleoperated,20,2,40,5,4.00,Only one trigger per robot
+Zipline Climbers,Teleoperated,20,3,60,4,5.00,Preloaded. Cannot be removed. Must be released via trigger. 
+End Tele Location: Mid Zone,Teleoperated,20,1,20,3,6.67,
+All Clear Signal,Teleoperated,20,2,40,8,2.50,Must be above 2-inch zone
+Debris: High Zone Goal,Teleoperated,15,10,150,7,2.14,Must be above 2-inch zone
+Debris: Mid Zone Goal,Teleoperated,10,10,100,5,2.00,Must be above 2-inch zone
+Debris: Low Zone Goal,Teleoperated,5,10,50,3,1.67,
+Debris: Floor Goal,Teleoperated,1,30,30,1,1.00,
+Climbers in Alliance Shelter,Teleoperated,10,8,80,5,2.00,Climbers from autonomous can be counted again.
+End Tele Location: Low Zone,Teleoperated,10,1,10,2,5.00,
+End Tele Location: Playing Field/Mountain,Teleoperated,5,1,5,1,5.00,
+Major Penalty,Whole Game,40,,,,,Given to the non-offending alliance
+Minor Penalty,Whole Game,10,,,,,Given to the non-offending alliance
