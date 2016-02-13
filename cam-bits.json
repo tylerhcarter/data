@@ -1,0 +1,900 @@
+{
+  "tool-library": {
+    "-xmlns": "http://www.hsmworks.com/xml/2004/cnc/tool-library",
+    "-version": "1.0",
+    "-guid": "{02030506-6e31-4f54-b92e-3c5d134a4b64}",
+    "tool": [
+      {
+        "-version": "1.1",
+        "-type": "flat end mill",
+        "-unit": "inches",
+        "-guid": "{68b44bd9-48c3-4ba0-9c85-b3445a89e5c2}",
+        "nc": {
+          "-number": "1",
+          "-diameter-offset": "1",
+          "-length-offset": "1",
+          "-break-control": "0",
+          "-manual-tool-change": "1"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.25",
+          "-flute-length": "0.95",
+          "-shoulder-length": "0.95",
+          "-shaft-diameter": "0.25",
+          "-body-length": "1.3",
+          "-overall-length": "2.5",
+          "-number-of-flutes": "2",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "5000",
+          "-ramp-spindle-rpm": "5000",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "40",
+          "-entry-feedrate": "40",
+          "-exit-feedrate": "40",
+          "-plunge-feedrate": "13.3333",
+          "-ramp-feedrate": "13.3333",
+          "-retract-feedrate": "13.3333"
+        }
+      },
+      {
+        "-version": "1.1",
+        "-type": "flat end mill",
+        "-unit": "inches",
+        "-guid": "{b3c50990-1542-47d6-8543-93b4b5af24ee}",
+        "nc": {
+          "-number": "2",
+          "-diameter-offset": "2",
+          "-length-offset": "2",
+          "-break-control": "0",
+          "-manual-tool-change": "0"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.125",
+          "-flute-length": "0.75",
+          "-shoulder-length": "0.75",
+          "-shaft-diameter": "0.25",
+          "-body-length": "1.25",
+          "-overall-length": "2.5",
+          "-number-of-flutes": "3",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "14000",
+          "-ramp-spindle-rpm": "14000",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "40",
+          "-entry-feedrate": "40",
+          "-exit-feedrate": "40",
+          "-plunge-feedrate": "13.3333",
+          "-ramp-feedrate": "13.3333",
+          "-retract-feedrate": "13.3333"
+        }
+      },
+      {
+        "-version": "1.1",
+        "-type": "flat end mill",
+        "-unit": "inches",
+        "-guid": "{b54cbf48-1428-4f29-8804-120f8af63dda}",
+        "description": "Wood",
+        "nc": {
+          "-number": "3",
+          "-diameter-offset": "3",
+          "-length-offset": "3",
+          "-break-control": "0",
+          "-manual-tool-change": "1"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.25",
+          "-flute-length": "0.95",
+          "-shoulder-length": "0.95",
+          "-shaft-diameter": "0.25",
+          "-body-length": "1.3",
+          "-overall-length": "2.5",
+          "-number-of-flutes": "2",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "20000",
+          "-ramp-spindle-rpm": "20000",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "120",
+          "-entry-feedrate": "100",
+          "-exit-feedrate": "100",
+          "-plunge-feedrate": "20",
+          "-ramp-feedrate": "30",
+          "-retract-feedrate": "20"
+        }
+      },
+      {
+        "-version": "1.1",
+        "-type": "flat end mill",
+        "-unit": "inches",
+        "-guid": "{822caa91-1b43-4ed7-a409-7252685d0d39}",
+        "description": "Polycarbonate",
+        "nc": {
+          "-number": "4",
+          "-diameter-offset": "4",
+          "-length-offset": "4",
+          "-break-control": "0",
+          "-manual-tool-change": "1"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.25",
+          "-flute-length": "0.95",
+          "-shoulder-length": "0.95",
+          "-shaft-diameter": "0.25",
+          "-body-length": "1.3",
+          "-overall-length": "2.5",
+          "-number-of-flutes": "2",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "8500",
+          "-ramp-spindle-rpm": "8500",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "136",
+          "-entry-feedrate": "100",
+          "-exit-feedrate": "100",
+          "-plunge-feedrate": "20",
+          "-ramp-feedrate": "60",
+          "-retract-feedrate": "20"
+        }
+      },
+      {
+        "-version": "1.1",
+        "-type": "flat end mill",
+        "-unit": "inches",
+        "-guid": "{16f02553-aa58-4f24-b83a-5bbd46641cc6}",
+        "description": "Wood",
+        "nc": {
+          "-number": "5",
+          "-diameter-offset": "5",
+          "-length-offset": "5",
+          "-break-control": "0",
+          "-manual-tool-change": "0"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.125",
+          "-flute-length": "0.75",
+          "-shoulder-length": "0.75",
+          "-shaft-diameter": "0.25",
+          "-body-length": "1.25",
+          "-overall-length": "2.5",
+          "-number-of-flutes": "3",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "20000",
+          "-ramp-spindle-rpm": "20000",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "90",
+          "-entry-feedrate": "90",
+          "-exit-feedrate": "90",
+          "-plunge-feedrate": "13.3333",
+          "-ramp-feedrate": "22.5",
+          "-retract-feedrate": "13.3333"
+        }
+      },
+      {
+        "-version": "1.1",
+        "-type": "flat end mill",
+        "-unit": "inches",
+        "-guid": "{55c3dc41-2ada-4ea6-9227-64b4d58f2afd}",
+        "description": "Polycarbonate",
+        "nc": {
+          "-number": "6",
+          "-diameter-offset": "6",
+          "-length-offset": "6",
+          "-break-control": "0",
+          "-manual-tool-change": "0"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.125",
+          "-flute-length": "0.75",
+          "-shoulder-length": "0.75",
+          "-shaft-diameter": "0.25",
+          "-body-length": "1.25",
+          "-overall-length": "2.5",
+          "-number-of-flutes": "3",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "10000",
+          "-ramp-spindle-rpm": "10000",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "120",
+          "-entry-feedrate": "120",
+          "-exit-feedrate": "120",
+          "-plunge-feedrate": "13.3333",
+          "-ramp-feedrate": "52.9411",
+          "-retract-feedrate": "13.3333"
+        }
+      },
+      {
+        "-version": "1.1",
+        "-type": "spot drill",
+        "-unit": "inches",
+        "-guid": "{5a7b0969-5f51-4c54-8954-90f6d9e86098}",
+        "nc": {
+          "-number": "7",
+          "-diameter-offset": "7",
+          "-length-offset": "7",
+          "-break-control": "0",
+          "-manual-tool-change": "0"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.25",
+          "-tip-diameter": "0",
+          "-taper-angle": "30",
+          "-flute-length": "0.5",
+          "-shoulder-length": "1",
+          "-shaft-diameter": "0.25",
+          "-body-length": "1.5",
+          "-overall-length": "2",
+          "-number-of-flutes": "2",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "150000",
+          "-ramp-spindle-rpm": "150000",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "80",
+          "-entry-feedrate": "80",
+          "-exit-feedrate": "80",
+          "-plunge-feedrate": "10",
+          "-ramp-feedrate": "12",
+          "-retract-feedrate": "10"
+        }
+      },
+      {
+        "-version": "1.1",
+        "-type": "flat end mill",
+        "-unit": "inches",
+        "-guid": "{4567edd9-a258-42df-b346-a1903bbc6ddf}",
+        "description": "Aluminum",
+        "nc": {
+          "-number": "8",
+          "-diameter-offset": "8",
+          "-length-offset": "8",
+          "-break-control": "0",
+          "-manual-tool-change": "1"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.25",
+          "-flute-length": "0.95",
+          "-shoulder-length": "0.95",
+          "-shaft-diameter": "0.25",
+          "-body-length": "1.3",
+          "-overall-length": "2.5",
+          "-number-of-flutes": "2",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "20765",
+          "-ramp-spindle-rpm": "20765",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "75",
+          "-entry-feedrate": "75",
+          "-exit-feedrate": "75",
+          "-plunge-feedrate": "30.7",
+          "-ramp-feedrate": "30.7",
+          "-retract-feedrate": "30.7"
+        }
+      },
+      {
+        "-version": "1.1",
+        "-type": "counter sink",
+        "-unit": "inches",
+        "-guid": "{65e2005f-3577-4d97-8ab3-14019cf8dbbb}",
+        "description": "Aluminum",
+        "nc": {
+          "-number": "9",
+          "-diameter-offset": "9",
+          "-length-offset": "9",
+          "-break-control": "0",
+          "-manual-tool-change": "1"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.375",
+          "-tip-diameter": "0",
+          "-taper-angle": "82",
+          "-flute-length": "0.25",
+          "-shoulder-length": "0.875",
+          "-shaft-diameter": "0.25",
+          "-body-length": "1.3",
+          "-overall-length": "1.75",
+          "-number-of-flutes": "2",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "20765",
+          "-ramp-spindle-rpm": "20765",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "75",
+          "-entry-feedrate": "75",
+          "-exit-feedrate": "75",
+          "-plunge-feedrate": "30.7",
+          "-ramp-feedrate": "30.7",
+          "-retract-feedrate": "30.7"
+        }
+      },
+      {
+        "-version": "1.1",
+        "-type": "drill",
+        "-unit": "inches",
+        "-guid": "{6e9171da-15ad-4fa4-bc3f-fd07eaf70e8b}",
+        "nc": {
+          "-number": "10",
+          "-diameter-offset": "10",
+          "-length-offset": "10",
+          "-break-control": "0",
+          "-manual-tool-change": "0"
+        },
+        "coolant": { "-mode": "disabled" },
+        "material": { "-name": "hss" },
+        "body": {
+          "-diameter": "0.15625",
+          "-taper-angle": "118",
+          "-flute-length": "1.5625",
+          "-shoulder-length": "1.71875",
+          "-shaft-diameter": "0.15625",
+          "-body-length": "2.03125",
+          "-overall-length": "2.34375",
+          "-number-of-flutes": "3",
+          "-thread-pitch": "0"
+        },
+        "holder": {
+          "-description": "Default Holder",
+          "-guid": "{6d03839f-f0d4-450b-973b-a6fa2a15eaff}",
+          "-library-name": "Sample Holders",
+          "section": [
+            {
+              "-diameter": "0.984252",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.1968504"
+            },
+            {
+              "-diameter": "1.1811",
+              "-length": "0.3149606"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.81102",
+              "-length": "0.1181102"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.9685",
+              "-length": "0.0787402"
+            },
+            {
+              "-diameter": "1.65354",
+              "-length": "0"
+            },
+            {
+              "-diameter": "1.5748",
+              "-length": "0.1968504"
+            }
+          ]
+        },
+        "motion": {
+          "-spindle-rpm": "5000",
+          "-ramp-spindle-rpm": "5000",
+          "-clockwise": "yes",
+          "-feed-mode": "per-minute",
+          "-cutting-feedrate": "0",
+          "-entry-feedrate": "0",
+          "-exit-feedrate": "0",
+          "-plunge-feedrate": "5",
+          "-ramp-feedrate": "0",
+          "-retract-feedrate": "5"
+        }
+      }
+    ]
+  }
+}
